@@ -1,0 +1,31 @@
+#card-1{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    background-color:blue;
+}
+#para{
+ color:#04cf3a;   
+ font-weight:bold;
+}
+#km-travel{
+    display: flex;
+    flex-direction: row;
+}
+#width-size{
+    width:35px;
+    height:10px;
+    margin:15px;
+}
+#head-1{
+    color:yellow;
+}
+#btn{
+    background-color:#0cdb09;
+    color:white;
+    border-width:0px;
+    width:120px;
+    border-radius:4px;
+    height:40px;
+    margin-left:190px;
+}
